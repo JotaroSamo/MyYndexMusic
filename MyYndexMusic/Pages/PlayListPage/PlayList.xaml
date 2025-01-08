@@ -1,8 +1,8 @@
 <Page
     Background="Transparent"
-    Height="450"
     Title="PlayList"
-    Width="900"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
     mc:Ignorable="d"
     x:Class="MyYndexMusic.Pages.PlayListPage.PlayList"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
@@ -13,17 +13,14 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
     <Page.Resources>
-        <converters1:NullImageConverter x:Key="NullImageConverter" />
-
-        <Style TargetType="Border">
-            <Setter Property="Background" Value="White" />
+        <!--  Стиль для границ  -->
+        <Style TargetType="Border" x:Key="BorderStyle">
             <Setter Property="CornerRadius" Value="8" />
             <Setter Property="Padding" Value="8" />
             <Setter Property="Margin" Value="10" />
-            <Setter Property="BorderBrush" Value="LightGray" />
-            <Setter Property="BorderThickness" Value="1" />
         </Style>
 
+        <!--  Стиль для ListView  -->
         <Style TargetType="ListView">
             <Setter Property="Background" Value="Transparent" />
             <Setter Property="BorderBrush" Value="Transparent" />
@@ -31,42 +28,60 @@
         </Style>
     </Page.Resources>
 
-    <Grid Style="{StaticResource mainGridStyle}">
-        <ListView Name="PlaylistsItemsControl">
-            <ListView.ItemsPanel>
-                <ItemsPanelTemplate>
-                    <UniformGrid Columns="3" />
-                </ItemsPanelTemplate>
-            </ListView.ItemsPanel>
+    <Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <ListView
+                HorizontalAlignment="Stretch"
+                Name="PlaylistsItemsControl"
+                VerticalAlignment="Stretch">
+                <!--  Используем UniformGrid для равномерного расположения  -->
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Columns="4" />
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
 
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <Border Height="150" Width="150">
-                        <StackPanel HorizontalAlignment="Center" Orientation="Vertical">
-                            <Image
-                                Height="60"
-                                Margin="0,0,0,5"
-                                Source="{Binding BackgroundImageUrl, Converter={StaticResource NullImageConverter}}"
-                                Stretch="UniformToFill"
-                                Width="60" />
-                            <TextBlock
-                                FontSize="12"
-                                FontWeight="Bold"
-                                HorizontalAlignment="Center"
-                                Text="{Binding Title}"
-                                TextWrapping="Wrap" />
-                            <Button
-                                Click="ButtonBase_OnClick"
-                                Content="Старт"
-                                HorizontalAlignment="Center"
-                                Tag="{Binding Uid}"
-                                Width="75" />
-                        </StackPanel>
-                    </Border>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <!--  Размер каждого блока  -->
+                        <Border
+                            Height="200"
+                            Style="{StaticResource BorderStyle}"
+                            Width="200">
+                            <StackPanel
+                                HorizontalAlignment="Stretch"
+                                Orientation="Vertical"
+                                VerticalAlignment="Stretch">
+                                <Image
+                                    Height="100"
+                                    Margin="0,0,0,5"
+                                    MaxHeight="100"
+                                    MaxWidth="100"
+                                    Name="Image"
+                                    Source="{Binding Image}"
+                                    Stretch="UniformToFill"
+                                    Width="100" />
+                                <TextBlock
+                                    FontSize="14"
+                                    FontWeight="Bold"
+                                    HorizontalAlignment="Center"
+                                    MaxHeight="40"
+                                    Text="{Binding Title}"
+                                    TextTrimming="CharacterEllipsis"
+                                    TextWrapping="Wrap" />
+                                <Button
+                                    Click="ButtonBase_OnClick"
+                                    Content="Старт"
+                                    HorizontalAlignment="Center"
+                                    MaxHeight="30"
+                                    Tag="{Binding Uid}"
+                                    Width="75" />
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollViewer>
     </Grid>
 </Page>
-
 

@@ -66,3 +66,4 @@ C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-win
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\MyYndexMusic.Core.dll
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\MyYndexMusic.Controller.pdb
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\MyYndexMusic.Core.pdb
+C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\MyYndexMusic.sourcelink.json

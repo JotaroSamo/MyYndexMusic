@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|c:\\users\\a.samoshuk\\riderprojects\\myyndexmusic\\myyndexmusic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|solutionrelative:myyndexmusic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|c:\\users\\a.samoshuk\\riderprojects\\myyndexmusic\\myyndexmusic\\pages\\playlistpage\\playlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|solutionrelative:myyndexmusic\\pages\\playlistpage\\playlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|c:\\users\\a.samoshuk\\riderprojects\\myyndexmusic\\myyndexmusic\\pages\\playlistpage\\playlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|solutionrelative:myyndexmusic\\pages\\playlistpage\\playlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|c:\\users\\a.samoshuk\\riderprojects\\myyndexmusic\\myyndexmusic\\styles\\staticstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|solutionrelative:myyndexmusic\\styles\\staticstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|c:\\users\\a.samoshuk\\riderprojects\\myyndexmusic\\myyndexmusic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|solutionrelative:myyndexmusic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|c:\\users\\a.samoshuk\\riderprojects\\myyndexmusic\\myyndexmusic\\pages\\startuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|c:\\users\\a.samoshuk\\riderprojects\\myyndexmusic\\myyndexmusic\\pages\\startuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|solutionrelative:myyndexmusic\\pages\\startuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|c:\\users\\a.samoshuk\\riderprojects\\myyndexmusic\\myyndexmusic\\pages\\playlistpage\\playlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|solutionrelative:myyndexmusic\\pages\\playlistpage\\playlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17FF93E9-FCFA-4AB4-904F-6D7FBB513A61}|MyYndexMusic\\MyYndexMusic.csproj|c:\\users\\a.samoshuk\\riderprojects\\myyndexmusic\\myyndexmusic\\styles\\griddynamicstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -57,11 +61,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 464,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "StaticStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Styles\\StaticStyles.xaml",
+              "RelativeDocumentMoniker": "MyYndexMusic\\Styles\\StaticStyles.xaml",
+              "ToolTip": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Styles\\StaticStyles.xaml",
+              "RelativeToolTip": "MyYndexMusic\\Styles\\StaticStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T05:56:17.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StartUpPageStyle.xaml",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Styles\\StartUpPageStyle.xaml",
               "RelativeDocumentMoniker": "MyYndexMusic\\Styles\\StartUpPageStyle.xaml",
@@ -73,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\App.xaml",
               "RelativeDocumentMoniker": "MyYndexMusic\\App.xaml",
@@ -85,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MyYndexMusic\\MainWindow.xaml.cs",
@@ -93,24 +109,22 @@
               "RelativeToolTip": "MyYndexMusic\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAApwCUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T08:51:39.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T08:51:39.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StartUpPage.xaml",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Pages\\StartUpPage.xaml",
               "RelativeDocumentMoniker": "MyYndexMusic\\Pages\\StartUpPage.xaml",
               "ToolTip": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Pages\\StartUpPage.xaml",
               "RelativeToolTip": "MyYndexMusic\\Pages\\StartUpPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-04T08:26:56.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T08:26:56.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "StartUpPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Pages\\StartUpPage.xaml.cs",
               "RelativeDocumentMoniker": "MyYndexMusic\\Pages\\StartUpPage.xaml.cs",
@@ -118,12 +132,11 @@
               "RelativeToolTip": "MyYndexMusic\\Pages\\StartUpPage.xaml.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAAwEYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T08:37:23.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T08:37:23.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MyYndexMusic\\MainWindow.xaml",
@@ -135,6 +148,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml.cs",
+              "RelativeDocumentMoniker": "MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml.cs",
+              "ToolTip": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml.cs*",
+              "RelativeToolTip": "MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:52:55.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PlayList.xaml",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml",
@@ -142,25 +168,12 @@
               "ToolTip": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml",
               "RelativeToolTip": "MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-04T08:57:11.058Z",
+              "WhenOpened": "2025-01-09T07:55:32.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayList.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml.cs",
-              "RelativeDocumentMoniker": "MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml.cs",
-              "ToolTip": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml.cs",
-              "RelativeToolTip": "MyYndexMusic\\Pages\\PlayListPage\\PlayList.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T12:52:55.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\AppData\\Local\\Temp\\.vsdbgsrc\\023ff5a99535271d773fe06266ce2c4f7b056f929fa45a48208e48a07915c85e\\XamlReader.cs",
               "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\023ff5a99535271d773fe06266ce2c4f7b056f929fa45a48208e48a07915c85e\\XamlReader.cs",
@@ -173,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GridDynamicStyles.xaml",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\Styles\\GridDynamicStyles.xaml",
               "RelativeDocumentMoniker": "MyYndexMusic\\Styles\\GridDynamicStyles.xaml",
@@ -185,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\App.xaml.cs",
               "RelativeDocumentMoniker": "MyYndexMusic\\App.xaml.cs",
@@ -197,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\a.samoshuk\\RiderProjects\\MyYndexMusic\\MyYndexMusic\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "MyYndexMusic\\AssemblyInfo.cs",

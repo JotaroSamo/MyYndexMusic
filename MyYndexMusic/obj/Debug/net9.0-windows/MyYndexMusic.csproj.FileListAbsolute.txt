@@ -3,7 +3,6 @@ C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-win
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\App.g.cs
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\MyYndexMusic_MarkupCompile.cache
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\MyYndexMusic_MarkupCompile.lref
-C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\Styles\GridDynamicStyles.baml
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\MyYndexMusic.exe
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\MyYndexMusic.deps.json
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\MyYndexMusic.runtimeconfig.json
@@ -11,7 +10,6 @@ C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-win
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\MyYndexMusic.pdb
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\Yandex.Music.Api.dll
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
-C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\Styles\StaticStyles.baml
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\MyYndexMusic.g.resources
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\MyYndexMusic.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\MyYndexMusic.AssemblyInfoInputs.cache
@@ -28,7 +26,6 @@ C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-win
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\NAudio.Wasapi.dll
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\NAudio.WinMM.dll
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\Pages\StartUpPage.baml
-C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\Styles\StartUpPageStyle.baml
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\Pages\StartUpPage.g.cs
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\App.baml
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\MainWindow.baml
@@ -67,3 +64,4 @@ C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-win
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\MyYndexMusic.Controller.pdb
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\bin\Debug\net9.0-windows\MyYndexMusic.Core.pdb
 C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\MyYndexMusic.sourcelink.json
+C:\Users\a.samoshuk\RiderProjects\MyYndexMusic\MyYndexMusic\obj\Debug\net9.0-windows\MyYndexMusic_Content.g.cs

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyYndexMusic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5928bd65aae1e315c59cbb99353d8c36e2608a83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37e23820a9457edcdc444d39f365371536e20f22")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyYndexMusic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyYndexMusic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
